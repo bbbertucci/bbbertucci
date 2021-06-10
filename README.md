@@ -1,5 +1,7 @@
 # Bruno Benjamim Bertucci<br>Engenharia Eletrônica (3° Ano) - Instituto Tecnológico de Aeronáutica
 
+[LinkedIn](https://www.linkedin.com/in/bruno-benjamim-bertucci/) - [GitLab](https://gitlab.com/bbbertucci) - [GitHub](https://github.com/bbbertucci)
+
 ## Projetos e Trabalhos Acadêmicos
 
 ### Inteligência Artificial para Robótica Móvel - Linguagem: Python
@@ -36,7 +38,3 @@
 ### Mecânica II - Simulações (Projetos em grupo) - Linguagem: Javascript
   - Pêndulo Duplo: [Simulação](https://kowalks.github.io/double-pendulum/) - [Código fonte](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/mecanica_ii/trabalhos_em_grupo/double-pendulum)
   - Gravitação: [Simulação](https://kowalks.github.io/planets/) - [Código fonte](https://github.com/bbbertucci/bbbertucci.github.io/tree/main/graduacao_ITA/terceiro_semestre/mecanica_ii/trabalhos_em_grupo/planets)
-
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/bruno-benjamim-bertucci/) - [GitLab](https://gitlab.com/bbbertucci) - [GitHub](https://github.com/bbbertucci)
