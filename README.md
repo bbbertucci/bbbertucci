@@ -1,4 +1,5 @@
-# Bruno Benjamim Bertucci<br>Engenharia Eletrônica (3° Ano) - Instituto Tecnológico de Aeronáutica
+# Bruno Benjamim Bertucci
+## Engenharia Eletrônica (3° Ano) - Instituto Tecnológico de Aeronáutica
 
 [LinkedIn](https://www.linkedin.com/in/bruno-benjamim-bertucci/) - [GitLab](https://gitlab.com/bbbertucci) - [Portfólio](https://bbbertucci.github.io)
 
