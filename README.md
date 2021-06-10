@@ -1,5 +1,4 @@
-# Bruno Benjamim Bertucci
-# Engenharia Eletrônica (3° Ano) - Instituto Tecnológico de Aeronáutica
+# Bruno Benjamim Bertucci<br>Engenharia Eletrônica (3° Ano) - Instituto Tecnológico de Aeronáutica
 
 ## Projetos e Trabalhos Acadêmicos
 
