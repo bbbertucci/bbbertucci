@@ -1,6 +1,9 @@
-## Bruno Benjamim Bertucci<br>Engenharia Eletrônica (4° Ano) - Instituto Tecnológico de Aeronáutica
+## Bruno Benjamim Bertucci<br>Engenheiro Eletrônico - Instituto Tecnológico de Aeronáutica
 
-[LinkedIn](https://www.linkedin.com/in/bruno-benjamim-bertucci/) - [GitLab](https://gitlab.com/bbbertucci)
+[LinkedIn](https://www.linkedin.com/in/bruno-benjamim-bertucci/)
+
+## Trabalho de Graduação
+[gpt-question-classifier](https://github.com/bbbertucci/gpt-question-classifier)
 
 ## Projetos e Trabalhos Acadêmicos
 
